@@ -79,7 +79,7 @@ h1 {
 }
 .submit {
     position: absolute;
-    top: 400px;
+    top: 420px;
    left: 300px;
   
    
@@ -120,4 +120,9 @@ p {
     border-radius: 8px;
     background: rgb(58,169,180);
 background: linear-gradient(6deg, rgba(58,169,180,0.9332107843137255) 47%, rgba(39,253,251,1) 83%, rgba(29,253,171,1) 99%, rgba(69,171,252,1) 100%);
+}
+.message {
+    font-size: 20px;
+    height: 100px;
+    line-height: 20px;
 }
